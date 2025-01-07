@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
@@ -11,5 +11,6 @@ title: Home
 - [Markdown](02-markdown-examples)
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
+
 ## Pinto 
 "Pinto was born in June of 2021 and we are now the same age and it is so cute!"
